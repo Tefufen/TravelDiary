@@ -1,0 +1,11 @@
+D:\Study\C#\Course Design\Travel Diary\Travel Diary\bin\Debug\Travel Diary.exe.config
+D:\Study\C#\Course Design\Travel Diary\Travel Diary\bin\Debug\Travel Diary.exe
+D:\Study\C#\Course Design\Travel Diary\Travel Diary\bin\Debug\Travel Diary.pdb
+D:\Study\C#\Course Design\Travel Diary\Travel Diary\obj\Debug\Travel Diary.csprojAssemblyReference.cache
+D:\Study\C#\Course Design\Travel Diary\Travel Diary\obj\Debug\Travel_Diary.Form1.resources
+D:\Study\C#\Course Design\Travel Diary\Travel Diary\obj\Debug\Travel_Diary.Properties.Resources.resources
+D:\Study\C#\Course Design\Travel Diary\Travel Diary\obj\Debug\Travel Diary.csproj.GenerateResource.cache
+D:\Study\C#\Course Design\Travel Diary\Travel Diary\obj\Debug\Travel Diary.exe
+D:\Study\C#\Course Design\Travel Diary\Travel Diary\obj\Debug\Travel Diary.pdb
+D:\Study\C#\Course Design\Travel Diary\Travel Diary\obj\Debug\Travel_Diary.Form2.resources
+D:\Study\C#\Course Design\Travel Diary\Travel Diary\obj\Debug\Travel_Diary.Form3.resources
